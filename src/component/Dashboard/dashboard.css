@@ -1,0 +1,11 @@
+.nav-bar-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.content-wrapper {
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
